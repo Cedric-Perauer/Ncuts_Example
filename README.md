@@ -20,3 +20,7 @@ python run_ncuts.py ##runs on 2 chunks and visualized + stores output .pcd files
 
 This code is only using spatial distances, so the only relevant ncuts parameter is the ```ncuts_threshold T```. 
 Increasing the threshold inside ```config_spatial``` dict will lead to more recursive splits (finer grained/more instances). 
+
+
+## Credits & Contributions
+[Laurenz Heidrich (@laurenzheidrich)](https://github.com/laurenzheidriche)
