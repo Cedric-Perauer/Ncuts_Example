@@ -1,7 +1,14 @@
 ## Minimum Ncuts Example 
 
+## Install 
+
 ```sh
 pip install -r requirements.txt 
+```
+
+## Run 
+```
+python run_ncuts.py ##runs on 2 chunks and visualized + stores output .pcd files to out_pcds/ folder
 ```
 
 ## Files 
