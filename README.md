@@ -1,4 +1,4 @@
-## Minimum Ncuts Example 
+## Minimum Ncuts Example For 3D Point Cloud
 
 ## Install 
 
