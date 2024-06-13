@@ -1,0 +1,4 @@
+__pycache__/
+*.pcd/
+out_pcds/
+*.swp
