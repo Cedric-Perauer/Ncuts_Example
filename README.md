@@ -23,4 +23,4 @@ Increasing the threshold inside ```config_spatial``` dict will lead to more recu
 
 
 ## Credits & Contributions
-[Laurenz Heidrich (@laurenzheidrich)](https://github.com/laurenzheidriche)
+[Laurenz Heidrich (@laurenzheidrich)](https://github.com/laurenzheidrich)
